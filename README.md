@@ -16,8 +16,7 @@ Evaluating historical equity data is essential for identifying cyclical market t
 ---
 
 ## 🖥️ Financial Dashboard Preview
-*(Take a high-res screenshot of your Excel dashboard sheets, name the image file `uber_dashboard.png`, upload it directly into this repository folder, and then replace this line with: `![Excel Dashboard Preview](uber_dashboard.png)`)*
-
+![Excel Dashboard Preview](Uber_Stock_Analysis_dashboard.png)
 ---
 
 ## 📈 Key Financial Discoveries & Market Insights
